@@ -3,6 +3,8 @@
 ## Introductie
 Donkervoort is een familiebedrijf dat exclusieve supercars produceert. Door de hoge vraag is er een productiewachttijd van ongeveer twee jaar. Om klanten betrokken te houden gedurende deze periode wil Donkervoort een professioneel online klantportaal aanbieden waarin klanten hun orderstatus, persoonlijke content en relevante documenten kunnen volgen.
 
+In de map [`prototype/`](prototype/index.html) staat een visuele schets van het portaal met een donkere, high-end thematiek (zwarte achtergrond) om de premium uitstraling van het merk te benadrukken.
+
 Dit document geeft een overzicht van hoe je een dergelijke omgeving kunt opzetten: van de belangrijkste functies tot de technische architectuur, beveiliging en een gefaseerde aanpak.
 
 ## Doelen van het portaal
